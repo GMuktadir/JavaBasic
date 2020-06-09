@@ -1,4 +1,4 @@
-public class ArrayBigNumber {
+public class UniqueNumberArray {
     public static void main(String[] args)
     {
         int size=10;
